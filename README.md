@@ -31,9 +31,6 @@ I'm a Freelace front-end web developer actively seeking opportunties in React JS
 <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> 
  
 <br>
-   
-
-
 
 ## Github Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=boaztanui&theme=vue&hide_title=true&hide_border=true&show_icons=true&count_private=true&hide=stars,issues" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boaztanui&layout=compact&theme=vue&hide_title=true&hide_border=true" >  
