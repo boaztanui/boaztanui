@@ -34,5 +34,5 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
   
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boaztanui&layout=compact" alt="boaztanui" /></p>
-  
+## Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=mister-josuecedeno&theme=vue&hide_title=true&hide_border=true&show_icons=true&count_private=true&hide=stars,issues" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boaztanui&layout=compact&theme=vue&hide_title=true&hide_border=true" >  
