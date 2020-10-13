@@ -1,7 +1,5 @@
 ### Hi there👋
 
-
-
 <!--
 **boaztanui/boaztanui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +18,7 @@
 ## Languages and Tools:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![React JS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
-  ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <br>
 
 
