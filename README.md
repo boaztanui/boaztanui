@@ -1,9 +1,5 @@
 ### Hi there, I'm [Boaz!](https://github.com/boaztanui)👋
 
-<p align="left">
-<a href="https://linkedin.com/in/boaztanui" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="boaztanui" height="30" width="40" /></a>
-<a href="https://instagram.com/itsboaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="itsboaz" height="30" width="40" /></a>
-</p>
 
 I'm a Freelace front-end web developer actively seeking opportunties in React JS
 
@@ -44,3 +40,7 @@ I'm a Freelace front-end web developer actively seeking opportunties in React JS
 
 ## connect with me 
 [![Gmail Badge](https://img.shields.io/badge/-boaztanui058@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:boaztanui058@gmail.com)](mailto:boaztanui058@gmail.com)
+<p align="left">
+<a href="https://linkedin.com/in/boaztanui" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="boaztanui" height="30" width="40" /></a>
+<a href="https://instagram.com/itsboaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="itsboaz" height="30" width="40" /></a>
+</p>
