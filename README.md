@@ -1,5 +1,5 @@
 ### Hi there👋
-
+[![Gmail Badge](https://img.shields.io/badge/-boaztanui058@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:boaztanui058@gmail.com)](mailto:boaztanui058@gmail.com)
 <!--
 **boaztanui/boaztanui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,4 +35,4 @@
   ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
   
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=mister-josuecedeno&theme=vue&hide_title=true&hide_border=true&show_icons=true&count_private=true&hide=stars,issues" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boaztanui&layout=compact&theme=vue&hide_title=true&hide_border=true" >  
+<img src="https://github-readme-stats.vercel.app/api?username=boaztanui&theme=vue&hide_title=true&hide_border=true&show_icons=true&count_private=true&hide=stars,issues" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boaztanui&layout=compact&theme=vue&hide_title=true&hide_border=true" >  
