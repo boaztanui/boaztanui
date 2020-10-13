@@ -5,6 +5,8 @@
 <!--
 **boaztanui/boaztanui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+-->
+
 
 ## I'm a React Developer 
 - 🔭 I’m currently working on a personal product!
@@ -12,7 +14,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to solving problems with code
--->
+
 
 
 ## Languages and Tools:
