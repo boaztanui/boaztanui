@@ -1,9 +1,12 @@
 ### Hi there, I'm [Boaz!](https://github.com/boaztanui)👋
 
-I'm a Freelace front-end web developer actively seeking opportunties in React JS
 
 [![Gmail Badge](https://img.shields.io/badge/-boaztanui058@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:boaztanui058@gmail.com)](mailto:boaztanui058@gmail.com)
-![Instagram](https://img.shields.io/badge/%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/itsboaz/)
+
+<img src="https://img.shields.io/badge/<itsboaz>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+
+
+I'm a Freelace front-end web developer actively seeking opportunties in React JS
 <!--
 **boaztanui/boaztanui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,7 +39,6 @@ I'm a Freelace front-end web developer actively seeking opportunties in React JS
 ## Version Control:
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Gitlab](img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>)
   
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=boaztanui&theme=vue&hide_title=true&hide_border=true&show_icons=true&count_private=true&hide=stars,issues" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boaztanui&layout=compact&theme=vue&hide_title=true&hide_border=true" >  
