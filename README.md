@@ -1,6 +1,6 @@
-### Hi there, I'm Boaz👋
+### Hi there, I'm [Boaz!](https://github.com/boaztanui)👋
 
-I'm a front-end web developer actively seeking opportunties in React JS
+I'm a Freelace front-end web developer actively seeking opportunties in React JS
 
 Email [![Gmail Badge](https://img.shields.io/badge/-boaztanui058@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:boaztanui058@gmail.com)](mailto:boaztanui058@gmail.com)
 <!--
