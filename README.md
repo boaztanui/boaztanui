@@ -31,8 +31,11 @@ I'm a Freelace front-end web developer actively seeking opportunties in React JS
 
  
 <br>
-## Version Control: 
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<br>
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)   
+
 
 
 ## Github Stats:
