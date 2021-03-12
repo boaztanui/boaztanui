@@ -10,7 +10,6 @@ I'm a Freelace front-end web developer actively seeking opportunties in React JS
 -->
 
 
-## I'm a React Developer 
-- 🔭 I’m currently working on a personal product!
+## I use MERN (MongoDB, Express.js, React.js & Node.js) stack. 
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to solving problems with code
