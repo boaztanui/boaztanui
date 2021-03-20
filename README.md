@@ -1,7 +1,7 @@
 ### Hi there, I'm [Boaz!](https://github.com/boaztanui)👋
 
 
-I'm a Freelace front-end web developer actively seeking opportunties in React JS
+I'm a Freelace front-end web developer actively seeking opportunties in React JS 
 
 
 <!--
